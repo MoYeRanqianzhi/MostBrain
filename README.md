@@ -3,4 +3,4 @@
 
 > 汗流浃背了吧，本语言不给任何明确的报错，嘿嘿~
 
-教程看这:https://moyeransoft.gitbook.io/MostBrain
+[教程](https://moyeransoft.gitbook.io/MostBrain)
